@@ -1,0 +1,1023 @@
+[ atomtypes ]
+; name      at.num  mass     charge ptype  sigma      epsilon
+Br          35      79.90    0.0000  A   4.64693e-01  2.45414e-01
+C            6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+RCC            6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+RUC            6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+RGC            6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CA           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+ACA           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+GCA           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CCA           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CB           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+ACB           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+GCB           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CC           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CD           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CI           6      12.01    0.0000  A   3.39967e-01  4.57730e-01
+ACI           6      12.01    0.0000  A   3.39967e-01  4.57730e-01
+CCI           6      12.01    0.0000  A   3.39967e-01  4.57730e-01
+GCI           6      12.01    0.0000  A   3.39967e-01  4.57730e-01
+UCI           6      12.01    0.0000  A   3.39967e-01  4.57730e-01
+CK           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CM           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CN           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CO           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CP           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CQ           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CR           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CS           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CT           6      12.01    0.0000  A   3.39967e-01  4.57730e-01
+CV           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CW           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CX           6      12.01    0.0000  A   3.39967e-01  4.57730e-01
+CY           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+CZ           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+C*           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+C4           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+C5           6      12.01    0.0000  A   3.39967e-01  3.59824e-01
+C8           6      12.01    0.0000  A   3.39967e-01  4.57730e-01
+2C           6      12.01    0.0000  A   3.39967e-01  4.57730e-01
+3C           6      12.01    0.0000  A   3.39967e-01  4.57730e-01
+C0          20      40.08    0.0000  A   3.05240e-01  1.92376e+00
+F            9      19.00    0.0000  A   3.11815e-01  2.55224e-01
+H            1       1.008   0.0000  A   1.06908e-01  6.56888e-02
+HO           1       1.008   0.0000  A   0.00000e+00  0.00000e+00
+HS           1       1.008   0.0000  A   1.06908e-01  6.56888e-02
+HC           1       1.008   0.0000  A   2.64953e-01  6.56888e-02
+H1           1       1.008   0.0000  A   2.47135e-01  6.56888e-02
+H2           1       1.008   0.0000  A   2.29317e-01  6.56888e-02
+H3           1       1.008   0.0000  A   2.11499e-01  6.56888e-02
+HP           1       1.008   0.0000  A   1.95998e-01  6.56888e-02
+HA           1       1.008   0.0000  A   2.59964e-01  6.27600e-02
+H4           1       1.008   0.0000  A   2.51055e-01  6.27600e-02
+H5           1       1.008   0.0000  A   2.42146e-01  6.27600e-02
+HW           1       1.008   0.0000  A   0.00000e+00  0.00000e+00
+HZ           1       1.008   0.0000  A   2.59964e-01  6.27600e-02
+I           53     126.9     0.0000  A   5.09595e-01  2.24604e-01
+Cl          17      35.45    0.0000  A   4.47766e-01  1.48913e-01
+Na          11      22.99    0.0000  A   2.43928e-01  3.65846e-02
+MG          12      24.305   0.0000  A   1.41225e-01  3.74342e+00
+N            7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+NA           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+GNA           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+UNA           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+NB           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+ANB           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+GNB           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+NC           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+ANC           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+GNC           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+CNC           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+N2           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+AN2           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+GN2           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+CN2           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+N3           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+NT           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+N*           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+AN*           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+GN*           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+CN*           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+UN*           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+NY           7      14.01    0.0000  A   3.25000e-01  7.11280e-01
+O            8      16.00    0.0000  A   2.95992e-01  8.78640e-01
+RGO            8      16.00    0.0000  A   2.95992e-01  8.78640e-01
+RCO            8      16.00    0.0000  A   2.95992e-01  8.78640e-01
+RUO            8      16.00    0.0000  A   2.95992e-01  8.78640e-01
+O2           8      16.00    0.0000  A   2.95992e-01  8.78640e-01
+OW           8      16.00    0.0000  A   3.15061e-01  6.36386e-01
+OH           8      16.00    0.0000  A   3.06647e-01  8.80314e-01
+OS           8      16.00    0.0000  A   3.00001e-01  7.11280e-01
+OP           8      16.00    0.0000  A   3.29633e-01  7.11280e-01
+P           15      30.97    0.0000  A   3.74177e-01  8.36800e-01
+S           16      32.06    0.0000  A   3.56359e-01  1.04600e+00
+SH          16      32.06    0.0000  A   3.56359e-01  1.04600e+00
+CU          29      63.55    0.0000  A   3.39967e-01  3.59824e-01
+FE          26      55.00    0.0000  A   0.00000e+00  0.00000e+00
+K           19      39.10    0.0000  A   3.03797e-01  8.10369e-01
+Rb          37      85.47    0.0000  A   3.23040e-01  1.37161e+00
+Cs          55     132.91    0.0000  A   3.52084e-01  1.70096e+00
+IB           0     131.0     0.0000  A   8.90899e-01  4.18400e-01
+EP           0       0.00    0.0000  A   0.00000e+00  0.00000e+00
+; spc water - use only with spc.itp & settles
+OW_spc       8      15.9994  0.0000  A   3.16557e-01  6.50629e-01
+HW_spc       1       1.0080  0.0000  A   0.00000e+00  0.00000e+00
+Li           3       6.94    0.0000  A   2.02590e-01  7.65672e-02
+Zn          30      65.4     0.0000  A   1.95998e-01  5.23000e-02
+;tip4p-EW
+HW_tip4pew   1       1.008   0.0000  A   0.00000e+00  0.00000e+00
+OW_tip4pew   8      16.00    0.0000  A   3.16435e-01  6.80946e-01
+; tip4p
+HW_tip4p     1       1.008   0.0000  A   0.00000e+00  0.00000e+00
+OW_tip4p     8      16.00    0.0000  A   3.15365e-01  6.48520e-01
+;tip5p
+HW_tip5p     1       1.008   0.0000  A   0.00000e+00  0.00000e+00
+OW_tip5p     8      16.00    0.0000  A   3.12000e-01  6.69440e-01
+; dummy defs
+; MW=Dummy mass for tip4p/EW/5p water extra point charge
+MW           0       0.0000  0.0000  A   0.00000e+00  0.00000e+00
+; Dummy masses for rigid CH3 and NH3 groups
+MCH3         0       0.0000  0.0000  A   0.00000e+00  0.00000e+00
+MNH3         0       0.0000  0.0000  A   0.00000e+00  0.00000e+00
+[ nonbond_params ]
+ ACA     ACA  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ ACA     GCA  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ ACA     CCA  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ ACA     ACB  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ ACA     GCB  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ ACA     CP  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ ACA     CQ  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ ACA     CS  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ ACA     RCC  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ ACA     RUC  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ ACA     RGC  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ ACA     C5  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ ACA     C4  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ ACA     ANC  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ACA     GNC  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ACA     CNC  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ ACA     ANB  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ACA     GNB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ACA     AN*  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ACA     GN*  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ACA     CN*  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ ACA     UN*  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ ACA     AN2  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ACA     GN2  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ACA     CN2  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ ACA     GNA  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ACA     UNA  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ ACA     RGO  1  3.17979e-1    4.68475e-01  ; adjusted-lj-para
+ ACA     RCO  1  3.17979e-1    4.45449e-01  ; adjusted-lj-para
+ ACA     RUO  1  3.17979e-1    4.23251e-01  ; adjusted-lj-para
+ GCA     ACA  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ GCA     GCA  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ GCA     CCA  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ GCA     ACB  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ GCA     GCB  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ GCA     CP  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ GCA     CQ  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ GCA     CS  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ GCA     RCC  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ GCA     RUC  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ GCA     RGC  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ GCA     C5  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ GCA     C4  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ GCA     ANC  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GCA     GNC  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GCA     CNC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GCA     ANB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GCA     GNB  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GCA     AN*  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GCA     GN*  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GCA     CN*  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GCA     UN*  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GCA     AN2  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GCA     GN2  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GCA     CN2  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GCA     GNA  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GCA     UNA  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GCA     RGO  1  3.17979e-1    4.78217e-01  ; adjusted-lj-para
+ GCA     RCO  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ GCA     RUO  1  3.17979e-1    4.32053e-01  ; adjusted-lj-para
+ CCA     ACA  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ CCA     GCA  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ CCA     CCA  1  3.39967e-1    2.76687e-01  ; adjusted-lj-para
+ CCA     ACB  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ CCA     GCB  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ CCA     CP  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ CCA     CQ  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ CCA     CS  1  3.39967e-1    2.62899e-01  ; adjusted-lj-para
+ CCA     RCC  1  3.39967e-1    2.76687e-01  ; adjusted-lj-para
+ CCA     RUC  1  3.39967e-1    2.62899e-01  ; adjusted-lj-para
+ CCA     RGC  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ CCA     C5  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ CCA     C4  1  3.39967e-1    2.76687e-01  ; adjusted-lj-para
+ CCA     ANC  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CCA     GNC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CCA     CNC  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ CCA     ANB  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CCA     GNB  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CCA     AN*  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CCA     GN*  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CCA     CN*  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ CCA     UN*  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ CCA     AN2  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CCA     GN2  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CCA     CN2  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ CCA     GNA  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CCA     UNA  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ CCA     RGO  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ CCA     RCO  1  3.17979e-1    4.32363e-01  ; adjusted-lj-para
+ CCA     RUO  1  3.17979e-1    4.10817e-01  ; adjusted-lj-para
+ ACB     ACA  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ ACB     GCA  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ ACB     CCA  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ ACB     ACB  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ ACB     GCB  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ ACB     CP  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ ACB     CQ  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ ACB     CS  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ ACB     RCC  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ ACB     RUC  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ ACB     RGC  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ ACB     C5  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ ACB     C4  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ ACB     ANC  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ACB     GNC  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ACB     CNC  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ ACB     ANB  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ACB     GNB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ACB     AN*  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ACB     GN*  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ACB     CN*  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ ACB     UN*  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ ACB     AN2  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ACB     GN2  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ACB     CN2  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ ACB     GNA  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ACB     UNA  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ ACB     RGO  1  3.17979e-1    4.68475e-01  ; adjusted-lj-para
+ ACB     RCO  1  3.17979e-1    4.45449e-01  ; adjusted-lj-para
+ ACB     RUO  1  3.17979e-1    4.23251e-01  ; adjusted-lj-para
+ GCB     ACA  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ GCB     GCA  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ GCB     CCA  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ GCB     ACB  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ GCB     GCB  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ GCB     CP  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ GCB     CQ  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ GCB     CS  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ GCB     RCC  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ GCB     RUC  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ GCB     RGC  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ GCB     C5  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ GCB     C4  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ GCB     ANC  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GCB     GNC  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GCB     CNC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GCB     ANB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GCB     GNB  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GCB     AN*  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GCB     GN*  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GCB     CN*  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GCB     UN*  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GCB     AN2  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GCB     GN2  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GCB     CN2  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GCB     GNA  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GCB     UNA  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GCB     RGO  1  3.17979e-1    4.78217e-01  ; adjusted-lj-para
+ GCB     RCO  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ GCB     RUO  1  3.17979e-1    4.32053e-01  ; adjusted-lj-para
+ CP     ACA  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ CP     GCA  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ CP     CCA  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ CP     ACB  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ CP     GCB  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ CP     CP  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ CP     CQ  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ CP     CS  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ CP     RCC  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ CP     RUC  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ CP     RGC  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ CP     C5  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ CP     C4  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ CP     ANC  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ CP     GNC  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ CP     CNC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CP     ANB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ CP     GNB  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ CP     AN*  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ CP     GN*  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ CP     CN*  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CP     UN*  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ CP     AN2  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ CP     GN2  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ CP     CN2  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CP     GNA  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ CP     UNA  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ CP     RGO  1  3.17979e-1    4.78217e-01  ; adjusted-lj-para
+ CP     RCO  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ CP     RUO  1  3.17979e-1    4.32053e-01  ; adjusted-lj-para
+ CQ     ACA  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ CQ     GCA  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ CQ     CCA  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ CQ     ACB  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ CQ     GCB  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ CQ     CP  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ CQ     CQ  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ CQ     CS  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ CQ     RCC  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ CQ     RUC  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ CQ     RGC  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ CQ     C5  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ CQ     C4  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ CQ     ANC  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ CQ     GNC  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ CQ     CNC  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CQ     ANB  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ CQ     GNB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ CQ     AN*  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ CQ     GN*  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ CQ     CN*  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CQ     UN*  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ CQ     AN2  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ CQ     GN2  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ CQ     CN2  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CQ     GNA  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ CQ     UNA  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ CQ     RGO  1  3.17979e-1    4.68475e-01  ; adjusted-lj-para
+ CQ     RCO  1  3.17979e-1    4.45449e-01  ; adjusted-lj-para
+ CQ     RUO  1  3.17979e-1    4.23251e-01  ; adjusted-lj-para
+ CS     ACA  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ CS     GCA  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ CS     CCA  1  3.39967e-1    2.62899e-01  ; adjusted-lj-para
+ CS     ACB  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ CS     GCB  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ CS     CP  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ CS     CQ  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ CS     CS  1  3.39967e-1    2.49798e-01  ; adjusted-lj-para
+ CS     RCC  1  3.39967e-1    2.62899e-01  ; adjusted-lj-para
+ CS     RUC  1  3.39967e-1    2.49798e-01  ; adjusted-lj-para
+ CS     RGC  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ CS     C5  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ CS     C4  1  3.39967e-1    2.62899e-01  ; adjusted-lj-para
+ CS     ANC  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ CS     GNC  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ CS     CNC  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ CS     ANB  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ CS     GNB  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ CS     AN*  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ CS     GN*  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ CS     CN*  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ CS     UN*  1  3.32484e-1    3.51207e-01  ; adjusted-lj-para
+ CS     AN2  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ CS     GN2  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ CS     CN2  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ CS     GNA  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ CS     UNA  1  3.32484e-1    3.51207e-01  ; adjusted-lj-para
+ CS     RGO  1  3.17979e-1    4.32053e-01  ; adjusted-lj-para
+ CS     RCO  1  3.17979e-1    4.10817e-01  ; adjusted-lj-para
+ CS     RUO  1  3.17979e-1    3.90345e-01  ; adjusted-lj-para
+ RCC     ACA  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ RCC     GCA  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ RCC     CCA  1  3.39967e-1    2.76687e-01  ; adjusted-lj-para
+ RCC     ACB  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ RCC     GCB  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ RCC     CP  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ RCC     CQ  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ RCC     CS  1  3.39967e-1    2.62899e-01  ; adjusted-lj-para
+ RCC     RCC  1  3.39967e-1    2.76687e-01  ; adjusted-lj-para
+ RCC     RUC  1  3.39967e-1    2.62899e-01  ; adjusted-lj-para
+ RCC     RGC  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ RCC     C5  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ RCC     C4  1  3.39967e-1    2.76687e-01  ; adjusted-lj-para
+ RCC     ANC  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ RCC     GNC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ RCC     CNC  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ RCC     ANB  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ RCC     GNB  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ RCC     AN*  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ RCC     GN*  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ RCC     CN*  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ RCC     UN*  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ RCC     AN2  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ RCC     GN2  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ RCC     CN2  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ RCC     GNA  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ RCC     UNA  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ RCC     RGO  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ RCC     RCO  1  3.17979e-1    4.32363e-01  ; adjusted-lj-para
+ RCC     RUO  1  3.17979e-1    4.10817e-01  ; adjusted-lj-para
+ RUC     ACA  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ RUC     GCA  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ RUC     CCA  1  3.39967e-1    2.62899e-01  ; adjusted-lj-para
+ RUC     ACB  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ RUC     GCB  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ RUC     CP  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ RUC     CQ  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ RUC     CS  1  3.39967e-1    2.49798e-01  ; adjusted-lj-para
+ RUC     RCC  1  3.39967e-1    2.62899e-01  ; adjusted-lj-para
+ RUC     RUC  1  3.39967e-1    2.49798e-01  ; adjusted-lj-para
+ RUC     RGC  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ RUC     C5  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ RUC     C4  1  3.39967e-1    2.62899e-01  ; adjusted-lj-para
+ RUC     ANC  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ RUC     GNC  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ RUC     CNC  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ RUC     ANB  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ RUC     GNB  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ RUC     AN*  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ RUC     GN*  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ RUC     CN*  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ RUC     UN*  1  3.32484e-1    3.51207e-01  ; adjusted-lj-para
+ RUC     AN2  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ RUC     GN2  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ RUC     CN2  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ RUC     GNA  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ RUC     UNA  1  3.32484e-1    3.51207e-01  ; adjusted-lj-para
+ RUC     RGO  1  3.17979e-1    4.32053e-01  ; adjusted-lj-para
+ RUC     RCO  1  3.17979e-1    4.10817e-01  ; adjusted-lj-para
+ RUC     RUO  1  3.17979e-1    3.90345e-01  ; adjusted-lj-para
+ RGC     ACA  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ RGC     GCA  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ RGC     CCA  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ RGC     ACB  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ RGC     GCB  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ RGC     CP  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ RGC     CQ  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ RGC     CS  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ RGC     RCC  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ RGC     RUC  1  3.39967e-1    2.76488e-01  ; adjusted-lj-para
+ RGC     RGC  1  3.39967e-1    3.06030e-01  ; adjusted-lj-para
+ RGC     C5  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ RGC     C4  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ RGC     ANC  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ RGC     GNC  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ RGC     CNC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ RGC     ANB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ RGC     GNB  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ RGC     AN*  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ RGC     GN*  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ RGC     CN*  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ RGC     UN*  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ RGC     AN2  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ RGC     GN2  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ RGC     CN2  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ RGC     GNA  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ RGC     UNA  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ RGC     RGO  1  3.17979e-1    4.78217e-01  ; adjusted-lj-para
+ RGC     RCO  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ RGC     RUO  1  3.17979e-1    4.32053e-01  ; adjusted-lj-para
+ C5     ACA  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ C5     GCA  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ C5     CCA  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ C5     ACB  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ C5     GCB  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ C5     CP  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ C5     CQ  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ C5     CS  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ C5     RCC  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ C5     RUC  1  3.39967e-1    2.70855e-01  ; adjusted-lj-para
+ C5     RGC  1  3.39967e-1    2.99796e-01  ; adjusted-lj-para
+ C5     C5  1  3.39967e-1    2.93688e-01  ; adjusted-lj-para
+ C5     C4  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ C5     ANC  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ C5     GNC  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ C5     CNC  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ C5     ANB  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ C5     GNB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ C5     AN*  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ C5     GN*  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ C5     CN*  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ C5     UN*  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ C5     AN2  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ C5     GN2  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ C5     CN2  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ C5     GNA  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ C5     UNA  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ C5     RGO  1  3.17979e-1    4.68475e-01  ; adjusted-lj-para
+ C5     RCO  1  3.17979e-1    4.45449e-01  ; adjusted-lj-para
+ C5     RUO  1  3.17979e-1    4.23251e-01  ; adjusted-lj-para
+ C4     ACA  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ C4     GCA  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ C4     CCA  1  3.39967e-1    2.76687e-01  ; adjusted-lj-para
+ C4     ACB  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ C4     GCB  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ C4     CP  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ C4     CQ  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ C4     CS  1  3.39967e-1    2.62899e-01  ; adjusted-lj-para
+ C4     RCC  1  3.39967e-1    2.76687e-01  ; adjusted-lj-para
+ C4     RUC  1  3.39967e-1    2.62899e-01  ; adjusted-lj-para
+ C4     RGC  1  3.39967e-1    2.90989e-01  ; adjusted-lj-para
+ C4     C5  1  3.39967e-1    2.85061e-01  ; adjusted-lj-para
+ C4     C4  1  3.39967e-1    2.76687e-01  ; adjusted-lj-para
+ C4     ANC  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ C4     GNC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ C4     CNC  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ C4     ANB  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ C4     GNB  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ C4     AN*  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ C4     GN*  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ C4     CN*  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ C4     UN*  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ C4     AN2  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ C4     GN2  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ C4     CN2  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ C4     GNA  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ C4     UNA  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ C4     RGO  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ C4     RCO  1  3.17979e-1    4.32363e-01  ; adjusted-lj-para
+ C4     RUO  1  3.17979e-1    4.10817e-01  ; adjusted-lj-para
+ ANC     ACA  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ANC     GCA  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ANC     CCA  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ ANC     ACB  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ANC     GCB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ANC     CP  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ANC     CQ  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ANC     CS  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ ANC     RCC  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ ANC     RUC  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ ANC     RGC  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ANC     C5  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ANC     C4  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ ANC     ANC  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ ANC     GNC  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ ANC     CNC  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ ANC     ANB  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ ANC     GNB  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ ANC     AN*  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ ANC     GN*  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ ANC     CN*  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ ANC     UN*  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ ANC     AN2  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ ANC     GN2  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ ANC     CN2  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ ANC     GNA  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ ANC     UNA  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ ANC     RGO  1  3.10496e-1    6.58660e-01  ; adjusted-lj-para
+ ANC     RCO  1  3.10496e-1    6.26287e-01  ; adjusted-lj-para
+ ANC     RUO  1  3.10496e-1    5.95077e-01  ; adjusted-lj-para
+ GNC     ACA  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GNC     GCA  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GNC     CCA  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GNC     ACB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GNC     GCB  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GNC     CP  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GNC     CQ  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GNC     CS  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GNC     RCC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GNC     RUC  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GNC     RGC  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GNC     C5  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GNC     C4  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GNC     ANC  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GNC     GNC  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNC     CNC  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GNC     ANB  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GNC     GNB  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNC     AN*  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GNC     GN*  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNC     CN*  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GNC     UN*  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ GNC     AN2  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GNC     GN2  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNC     CN2  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GNC     GNA  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNC     UNA  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ GNC     RGO  1  3.10496e-1    6.72357e-01  ; adjusted-lj-para
+ GNC     RCO  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ GNC     RUO  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ CNC     ACA  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CNC     GCA  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CNC     CCA  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ CNC     ACB  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CNC     GCB  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CNC     CP  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CNC     CQ  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CNC     CS  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ CNC     RCC  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ CNC     RUC  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ CNC     RGC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CNC     C5  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CNC     C4  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ CNC     ANC  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ CNC     GNC  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CNC     CNC  1  3.25000e-1    5.46939e-01  ; adjusted-lj-para
+ CNC     ANB  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ CNC     GNB  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CNC     AN*  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ CNC     GN*  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CNC     CN*  1  3.25000e-1    5.46939e-01  ; adjusted-lj-para
+ CNC     UN*  1  3.25000e-1    5.19683e-01  ; adjusted-lj-para
+ CNC     AN2  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ CNC     GN2  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CNC     CN2  1  3.25000e-1    5.46939e-01  ; adjusted-lj-para
+ CNC     GNA  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CNC     UNA  1  3.25000e-1    5.19683e-01  ; adjusted-lj-para
+ CNC     RGO  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ CNC     RCO  1  3.10496e-1    6.07888e-01  ; adjusted-lj-para
+ CNC     RUO  1  3.10496e-1    5.77596e-01  ; adjusted-lj-para
+ ANB     ACA  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ANB     GCA  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ANB     CCA  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ ANB     ACB  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ANB     GCB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ANB     CP  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ANB     CQ  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ANB     CS  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ ANB     RCC  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ ANB     RUC  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ ANB     RGC  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ ANB     C5  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ ANB     C4  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ ANB     ANC  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ ANB     GNC  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ ANB     CNC  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ ANB     ANB  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ ANB     GNB  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ ANB     AN*  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ ANB     GN*  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ ANB     CN*  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ ANB     UN*  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ ANB     AN2  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ ANB     GN2  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ ANB     CN2  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ ANB     GNA  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ ANB     UNA  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ ANB     RGO  1  3.10496e-1    6.58660e-01  ; adjusted-lj-para
+ ANB     RCO  1  3.10496e-1    6.26287e-01  ; adjusted-lj-para
+ ANB     RUO  1  3.10496e-1    5.95077e-01  ; adjusted-lj-para
+ GNB     ACA  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GNB     GCA  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GNB     CCA  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GNB     ACB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GNB     GCB  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GNB     CP  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GNB     CQ  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GNB     CS  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GNB     RCC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GNB     RUC  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GNB     RGC  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GNB     C5  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GNB     C4  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GNB     ANC  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GNB     GNC  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNB     CNC  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GNB     ANB  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GNB     GNB  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNB     AN*  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GNB     GN*  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNB     CN*  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GNB     UN*  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ GNB     AN2  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GNB     GN2  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNB     CN2  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GNB     GNA  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNB     UNA  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ GNB     RGO  1  3.10496e-1    6.72357e-01  ; adjusted-lj-para
+ GNB     RCO  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ GNB     RUO  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ AN*     ACA  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ AN*     GCA  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ AN*     CCA  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ AN*     ACB  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ AN*     GCB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ AN*     CP  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ AN*     CQ  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ AN*     CS  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ AN*     RCC  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ AN*     RUC  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ AN*     RGC  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ AN*     C5  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ AN*     C4  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ AN*     ANC  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ AN*     GNC  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ AN*     CNC  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ AN*     ANB  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ AN*     GNB  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ AN*     AN*  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ AN*     GN*  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ AN*     CN*  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ AN*     UN*  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ AN*     AN2  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ AN*     GN2  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ AN*     CN2  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ AN*     GNA  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ AN*     UNA  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ AN*     RGO  1  3.10496e-1    6.58660e-01  ; adjusted-lj-para
+ AN*     RCO  1  3.10496e-1    6.26287e-01  ; adjusted-lj-para
+ AN*     RUO  1  3.10496e-1    5.95077e-01  ; adjusted-lj-para
+ GN*     ACA  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GN*     GCA  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GN*     CCA  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GN*     ACB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GN*     GCB  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GN*     CP  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GN*     CQ  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GN*     CS  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GN*     RCC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GN*     RUC  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GN*     RGC  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GN*     C5  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GN*     C4  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GN*     ANC  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GN*     GNC  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GN*     CNC  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GN*     ANB  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GN*     GNB  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GN*     AN*  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GN*     GN*  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GN*     CN*  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GN*     UN*  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ GN*     AN2  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GN*     GN2  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GN*     CN2  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GN*     GNA  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GN*     UNA  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ GN*     RGO  1  3.10496e-1    6.72357e-01  ; adjusted-lj-para
+ GN*     RCO  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ GN*     RUO  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ CN*     ACA  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CN*     GCA  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CN*     CCA  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ CN*     ACB  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CN*     GCB  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CN*     CP  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CN*     CQ  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CN*     CS  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ CN*     RCC  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ CN*     RUC  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ CN*     RGC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CN*     C5  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CN*     C4  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ CN*     ANC  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ CN*     GNC  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CN*     CNC  1  3.25000e-1    5.46939e-01  ; adjusted-lj-para
+ CN*     ANB  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ CN*     GNB  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CN*     AN*  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ CN*     GN*  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CN*     CN*  1  3.25000e-1    5.46939e-01  ; adjusted-lj-para
+ CN*     UN*  1  3.25000e-1    5.19683e-01  ; adjusted-lj-para
+ CN*     AN2  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ CN*     GN2  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CN*     CN2  1  3.25000e-1    5.46939e-01  ; adjusted-lj-para
+ CN*     GNA  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CN*     UNA  1  3.25000e-1    5.19683e-01  ; adjusted-lj-para
+ CN*     RGO  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ CN*     RCO  1  3.10496e-1    6.07888e-01  ; adjusted-lj-para
+ CN*     RUO  1  3.10496e-1    5.77596e-01  ; adjusted-lj-para
+ UN*     ACA  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ UN*     GCA  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ UN*     CCA  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ UN*     ACB  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ UN*     GCB  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ UN*     CP  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ UN*     CQ  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ UN*     CS  1  3.32484e-1    3.51207e-01  ; adjusted-lj-para
+ UN*     RCC  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ UN*     RUC  1  3.32484e-1    3.51207e-01  ; adjusted-lj-para
+ UN*     RGC  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ UN*     C5  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ UN*     C4  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ UN*     ANC  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ UN*     GNC  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ UN*     CNC  1  3.25000e-1    5.19683e-01  ; adjusted-lj-para
+ UN*     ANB  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ UN*     GNB  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ UN*     AN*  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ UN*     GN*  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ UN*     CN*  1  3.25000e-1    5.19683e-01  ; adjusted-lj-para
+ UN*     UN*  1  3.25000e-1    4.93786e-01  ; adjusted-lj-para
+ UN*     AN2  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ UN*     GN2  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ UN*     CN2  1  3.25000e-1    5.19683e-01  ; adjusted-lj-para
+ UN*     GNA  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ UN*     UNA  1  3.25000e-1    4.93786e-01  ; adjusted-lj-para
+ UN*     RGO  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ UN*     RCO  1  3.10496e-1    5.77596e-01  ; adjusted-lj-para
+ UN*     RUO  1  3.10496e-1    5.48813e-01  ; adjusted-lj-para
+ AN2     ACA  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ AN2     GCA  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ AN2     CCA  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ AN2     ACB  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ AN2     GCB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ AN2     CP  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ AN2     CQ  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ AN2     CS  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ AN2     RCC  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ AN2     RUC  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ AN2     RGC  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ AN2     C5  1  3.32484e-1    4.12916e-01  ; adjusted-lj-para
+ AN2     C4  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ AN2     ANC  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ AN2     GNC  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ AN2     CNC  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ AN2     ANB  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ AN2     GNB  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ AN2     AN*  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ AN2     GN*  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ AN2     CN*  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ AN2     UN*  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ AN2     AN2  1  3.25000e-1    5.80547e-01  ; adjusted-lj-para
+ AN2     GN2  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ AN2     CN2  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ AN2     GNA  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ AN2     UNA  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ AN2     RGO  1  3.10496e-1    6.58660e-01  ; adjusted-lj-para
+ AN2     RCO  1  3.10496e-1    6.26287e-01  ; adjusted-lj-para
+ AN2     RUO  1  3.10496e-1    5.95077e-01  ; adjusted-lj-para
+ GN2     ACA  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GN2     GCA  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GN2     CCA  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GN2     ACB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GN2     GCB  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GN2     CP  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GN2     CQ  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GN2     CS  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GN2     RCC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GN2     RUC  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GN2     RGC  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GN2     C5  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GN2     C4  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GN2     ANC  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GN2     GNC  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GN2     CNC  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GN2     ANB  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GN2     GNB  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GN2     AN*  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GN2     GN*  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GN2     CN*  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GN2     UN*  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ GN2     AN2  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GN2     GN2  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GN2     CN2  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GN2     GNA  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GN2     UNA  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ GN2     RGO  1  3.10496e-1    6.72357e-01  ; adjusted-lj-para
+ GN2     RCO  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ GN2     RUO  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ CN2     ACA  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CN2     GCA  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CN2     CCA  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ CN2     ACB  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CN2     GCB  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CN2     CP  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CN2     CQ  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CN2     CS  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ CN2     RCC  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ CN2     RUC  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ CN2     RGC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ CN2     C5  1  3.32484e-1    4.00786e-01  ; adjusted-lj-para
+ CN2     C4  1  3.32484e-1    3.89012e-01  ; adjusted-lj-para
+ CN2     ANC  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ CN2     GNC  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CN2     CNC  1  3.25000e-1    5.46939e-01  ; adjusted-lj-para
+ CN2     ANB  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ CN2     GNB  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CN2     AN*  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ CN2     GN*  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CN2     CN*  1  3.25000e-1    5.46939e-01  ; adjusted-lj-para
+ CN2     UN*  1  3.25000e-1    5.19683e-01  ; adjusted-lj-para
+ CN2     AN2  1  3.25000e-1    5.63492e-01  ; adjusted-lj-para
+ CN2     GN2  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CN2     CN2  1  3.25000e-1    5.46939e-01  ; adjusted-lj-para
+ CN2     GNA  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ CN2     UNA  1  3.25000e-1    5.19683e-01  ; adjusted-lj-para
+ CN2     RGO  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ CN2     RCO  1  3.10496e-1    6.07888e-01  ; adjusted-lj-para
+ CN2     RUO  1  3.10496e-1    5.77596e-01  ; adjusted-lj-para
+ GNA     ACA  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GNA     GCA  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GNA     CCA  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GNA     ACB  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GNA     GCB  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GNA     CP  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GNA     CQ  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GNA     CS  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GNA     RCC  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GNA     RUC  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ GNA     RGC  1  3.32484e-1    4.30269e-01  ; adjusted-lj-para
+ GNA     C5  1  3.32484e-1    4.21503e-01  ; adjusted-lj-para
+ GNA     C4  1  3.32484e-1    4.09121e-01  ; adjusted-lj-para
+ GNA     ANC  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GNA     GNC  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNA     CNC  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GNA     ANB  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GNA     GNB  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNA     AN*  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GNA     GN*  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNA     CN*  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GNA     UN*  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ GNA     AN2  1  3.25000e-1    5.92620e-01  ; adjusted-lj-para
+ GNA     GN2  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNA     CN2  1  3.25000e-1    5.75211e-01  ; adjusted-lj-para
+ GNA     GNA  1  3.25000e-1    6.04944e-01  ; adjusted-lj-para
+ GNA     UNA  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ GNA     RGO  1  3.10496e-1    6.72357e-01  ; adjusted-lj-para
+ GNA     RCO  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ GNA     RUO  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ UNA     ACA  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ UNA     GCA  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ UNA     CCA  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ UNA     ACB  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ UNA     GCB  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ UNA     CP  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ UNA     CQ  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ UNA     CS  1  3.32484e-1    3.51207e-01  ; adjusted-lj-para
+ UNA     RCC  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ UNA     RUC  1  3.32484e-1    3.51207e-01  ; adjusted-lj-para
+ UNA     RGC  1  3.32484e-1    3.88733e-01  ; adjusted-lj-para
+ UNA     C5  1  3.32484e-1    3.80814e-01  ; adjusted-lj-para
+ UNA     C4  1  3.32484e-1    3.69627e-01  ; adjusted-lj-para
+ UNA     ANC  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ UNA     GNC  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ UNA     CNC  1  3.25000e-1    5.19683e-01  ; adjusted-lj-para
+ UNA     ANB  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ UNA     GNB  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ UNA     AN*  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ UNA     GN*  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ UNA     CN*  1  3.25000e-1    5.19683e-01  ; adjusted-lj-para
+ UNA     UN*  1  3.25000e-1    4.93786e-01  ; adjusted-lj-para
+ UNA     AN2  1  3.25000e-1    5.35412e-01  ; adjusted-lj-para
+ UNA     GN2  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ UNA     CN2  1  3.25000e-1    5.19683e-01  ; adjusted-lj-para
+ UNA     GNA  1  3.25000e-1    5.46546e-01  ; adjusted-lj-para
+ UNA     UNA  1  3.25000e-1    4.93786e-01  ; adjusted-lj-para
+ UNA     RGO  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ UNA     RCO  1  3.10496e-1    5.77596e-01  ; adjusted-lj-para
+ UNA     RUO  1  3.10496e-1    5.48813e-01  ; adjusted-lj-para
+ RGO     ACA  1  3.17979e-1    4.68475e-01  ; adjusted-lj-para
+ RGO     GCA  1  3.17979e-1    4.78217e-01  ; adjusted-lj-para
+ RGO     CCA  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ RGO     ACB  1  3.17979e-1    4.68475e-01  ; adjusted-lj-para
+ RGO     GCB  1  3.17979e-1    4.78217e-01  ; adjusted-lj-para
+ RGO     CP  1  3.17979e-1    4.78217e-01  ; adjusted-lj-para
+ RGO     CQ  1  3.17979e-1    4.68475e-01  ; adjusted-lj-para
+ RGO     CS  1  3.17979e-1    4.32053e-01  ; adjusted-lj-para
+ RGO     RCC  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ RGO     RUC  1  3.17979e-1    4.32053e-01  ; adjusted-lj-para
+ RGO     RGC  1  3.17979e-1    4.78217e-01  ; adjusted-lj-para
+ RGO     C5  1  3.17979e-1    4.68475e-01  ; adjusted-lj-para
+ RGO     C4  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ RGO     ANC  1  3.10496e-1    6.58660e-01  ; adjusted-lj-para
+ RGO     GNC  1  3.10496e-1    6.72357e-01  ; adjusted-lj-para
+ RGO     CNC  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ RGO     ANB  1  3.10496e-1    6.58660e-01  ; adjusted-lj-para
+ RGO     GNB  1  3.10496e-1    6.72357e-01  ; adjusted-lj-para
+ RGO     AN*  1  3.10496e-1    6.58660e-01  ; adjusted-lj-para
+ RGO     GN*  1  3.10496e-1    6.72357e-01  ; adjusted-lj-para
+ RGO     CN*  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ RGO     UN*  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ RGO     AN2  1  3.10496e-1    6.58660e-01  ; adjusted-lj-para
+ RGO     GN2  1  3.10496e-1    6.72357e-01  ; adjusted-lj-para
+ RGO     CN2  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ RGO     GNA  1  3.10496e-1    6.72357e-01  ; adjusted-lj-para
+ RGO     UNA  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ RGO     RGO  1  2.95992e-1    7.47283e-01  ; adjusted-lj-para
+ RGO     RCO  1  2.95992e-1    7.10554e-01  ; adjusted-lj-para
+ RGO     RUO  1  2.95992e-1    6.75145e-01  ; adjusted-lj-para
+ RCO     ACA  1  3.17979e-1    4.45449e-01  ; adjusted-lj-para
+ RCO     GCA  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ RCO     CCA  1  3.17979e-1    4.32363e-01  ; adjusted-lj-para
+ RCO     ACB  1  3.17979e-1    4.45449e-01  ; adjusted-lj-para
+ RCO     GCB  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ RCO     CP  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ RCO     CQ  1  3.17979e-1    4.45449e-01  ; adjusted-lj-para
+ RCO     CS  1  3.17979e-1    4.10817e-01  ; adjusted-lj-para
+ RCO     RCC  1  3.17979e-1    4.32363e-01  ; adjusted-lj-para
+ RCO     RUC  1  3.17979e-1    4.10817e-01  ; adjusted-lj-para
+ RCO     RGC  1  3.17979e-1    4.54712e-01  ; adjusted-lj-para
+ RCO     C5  1  3.17979e-1    4.45449e-01  ; adjusted-lj-para
+ RCO     C4  1  3.17979e-1    4.32363e-01  ; adjusted-lj-para
+ RCO     ANC  1  3.10496e-1    6.26287e-01  ; adjusted-lj-para
+ RCO     GNC  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ RCO     CNC  1  3.10496e-1    6.07888e-01  ; adjusted-lj-para
+ RCO     ANB  1  3.10496e-1    6.26287e-01  ; adjusted-lj-para
+ RCO     GNB  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ RCO     AN*  1  3.10496e-1    6.26287e-01  ; adjusted-lj-para
+ RCO     GN*  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ RCO     CN*  1  3.10496e-1    6.07888e-01  ; adjusted-lj-para
+ RCO     UN*  1  3.10496e-1    5.77596e-01  ; adjusted-lj-para
+ RCO     AN2  1  3.10496e-1    6.26287e-01  ; adjusted-lj-para
+ RCO     GN2  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ RCO     CN2  1  3.10496e-1    6.07888e-01  ; adjusted-lj-para
+ RCO     GNA  1  3.10496e-1    6.39311e-01  ; adjusted-lj-para
+ RCO     UNA  1  3.10496e-1    5.77596e-01  ; adjusted-lj-para
+ RCO     RGO  1  2.95992e-1    7.10554e-01  ; adjusted-lj-para
+ RCO     RCO  1  2.95992e-1    6.75630e-01  ; adjusted-lj-para
+ RCO     RUO  1  2.95992e-1    6.41962e-01  ; adjusted-lj-para
+ RUO     ACA  1  3.17979e-1    4.23251e-01  ; adjusted-lj-para
+ RUO     GCA  1  3.17979e-1    4.32053e-01  ; adjusted-lj-para
+ RUO     CCA  1  3.17979e-1    4.10817e-01  ; adjusted-lj-para
+ RUO     ACB  1  3.17979e-1    4.23251e-01  ; adjusted-lj-para
+ RUO     GCB  1  3.17979e-1    4.32053e-01  ; adjusted-lj-para
+ RUO     CP  1  3.17979e-1    4.32053e-01  ; adjusted-lj-para
+ RUO     CQ  1  3.17979e-1    4.23251e-01  ; adjusted-lj-para
+ RUO     CS  1  3.17979e-1    3.90345e-01  ; adjusted-lj-para
+ RUO     RCC  1  3.17979e-1    4.10817e-01  ; adjusted-lj-para
+ RUO     RUC  1  3.17979e-1    3.90345e-01  ; adjusted-lj-para
+ RUO     RGC  1  3.17979e-1    4.32053e-01  ; adjusted-lj-para
+ RUO     C5  1  3.17979e-1    4.23251e-01  ; adjusted-lj-para
+ RUO     C4  1  3.17979e-1    4.10817e-01  ; adjusted-lj-para
+ RUO     ANC  1  3.10496e-1    5.95077e-01  ; adjusted-lj-para
+ RUO     GNC  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ RUO     CNC  1  3.10496e-1    5.77596e-01  ; adjusted-lj-para
+ RUO     ANB  1  3.10496e-1    5.95077e-01  ; adjusted-lj-para
+ RUO     GNB  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ RUO     AN*  1  3.10496e-1    5.95077e-01  ; adjusted-lj-para
+ RUO     GN*  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ RUO     CN*  1  3.10496e-1    5.77596e-01  ; adjusted-lj-para
+ RUO     UN*  1  3.10496e-1    5.48813e-01  ; adjusted-lj-para
+ RUO     AN2  1  3.10496e-1    5.95077e-01  ; adjusted-lj-para
+ RUO     GN2  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ RUO     CN2  1  3.10496e-1    5.77596e-01  ; adjusted-lj-para
+ RUO     GNA  1  3.10496e-1    6.07452e-01  ; adjusted-lj-para
+ RUO     UNA  1  3.10496e-1    5.48813e-01  ; adjusted-lj-para
+ RUO     RGO  1  2.95992e-1    6.75145e-01  ; adjusted-lj-para
+ RUO     RCO  1  2.95992e-1    6.41962e-01  ; adjusted-lj-para
+ RUO     RUO  1  2.95992e-1    6.09971e-01  ; adjusted-lj-para

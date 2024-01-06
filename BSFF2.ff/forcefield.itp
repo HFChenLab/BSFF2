@@ -1,0 +1,16 @@
+********************************************************************
+* BSFF2: Next Generation of Base-Specific Force Field              *
+********************************************************************
+
+#define _FF_AMBER
+#define _FF_AMBER12SB
+
+[ defaults ]
+; nbfunc        comb-rule       gen-pairs       fudgeLJ fudgeQQ
+1               2               yes             0.5     0.8333
+
+#include "ffnonbonded-bsff2.itp"
+#include "ffbonded-bsff2.itp"
+#include "gbsa.itp"
+#include "cmap.itp"
+
