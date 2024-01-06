@@ -1,0 +1,52 @@
+f1: DISTANCE ATOMS=17,435
+f_f1a: MATHEVAL ARG=f1 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f1b: MATHEVAL ARG=f1 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f2: DISTANCE ATOMS=19,437
+f_f2a: MATHEVAL ARG=f2 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f2b: MATHEVAL ARG=f2 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f3: DISTANCE ATOMS=22,439
+f_f3a: MATHEVAL ARG=f3 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f3b: MATHEVAL ARG=f3 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f4: DISTANCE ATOMS=51,404
+f_f4a: MATHEVAL ARG=f4 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f4b: MATHEVAL ARG=f4 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f5: DISTANCE ATOMS=53,406
+f_f5a: MATHEVAL ARG=f5 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f5b: MATHEVAL ARG=f5 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f6: DISTANCE ATOMS=56,408
+f_f6a: MATHEVAL ARG=f6 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f6b: MATHEVAL ARG=f6 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f7: DISTANCE ATOMS=369,86
+f_f7a: MATHEVAL ARG=f7 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f7b: MATHEVAL ARG=f7 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f8: DISTANCE ATOMS=371,88
+f_f8a: MATHEVAL ARG=f8 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f8b: MATHEVAL ARG=f8 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f9: DISTANCE ATOMS=374,90
+f_f9a: MATHEVAL ARG=f9 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f9b: MATHEVAL ARG=f9 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f10: DISTANCE ATOMS=117,339
+f_f10a: MATHEVAL ARG=f10 FUNC=(-198.74*(0.19-x)^2)*step(x-0.19)*step(0.49-x)+(-59.622*(2*x-0.68))*step(x-0.49) PERIODIC=NO
+f_f10b: MATHEVAL ARG=f10 FUNC=(1987.4*(0.19-x)^2)*step(x-0.19)*step(0.22-x)+(59.622*(2*x-0.41))*step(x-0.22) PERIODIC=NO
+f11: DISTANCE ATOMS=119,341
+f_f11a: MATHEVAL ARG=f11 FUNC=(-198.74*(0.19-x)^2)*step(x-0.19)*step(0.49-x)+(-59.622*(2*x-0.68))*step(x-0.49) PERIODIC=NO
+f_f11b: MATHEVAL ARG=f11 FUNC=(1987.4*(0.19-x)^2)*step(x-0.19)*step(0.22-x)+(59.622*(2*x-0.41))*step(x-0.22) PERIODIC=NO
+f12: DISTANCE ATOMS=149,309
+f_f12a: MATHEVAL ARG=f12 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f12b: MATHEVAL ARG=f12 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f13: DISTANCE ATOMS=151,311
+f_f13a: MATHEVAL ARG=f13 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f13b: MATHEVAL ARG=f13 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f14: DISTANCE ATOMS=154,313
+f_f14a: MATHEVAL ARG=f14 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f14b: MATHEVAL ARG=f14 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f15: DISTANCE ATOMS=274,184
+f_f15a: MATHEVAL ARG=f15 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f15b: MATHEVAL ARG=f15 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f16: DISTANCE ATOMS=276,186
+f_f16a: MATHEVAL ARG=f16 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f16b: MATHEVAL ARG=f16 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+f17: DISTANCE ATOMS=279,188
+f_f17a: MATHEVAL ARG=f17 FUNC=(-133.888*(0.2-x)^2)*step(x-0.2)*step(0.5-x)+(-40.1664*(2*x-0.7))*step(x-0.5) PERIODIC=NO
+f_f17b: MATHEVAL ARG=f17 FUNC=(267.776*(0.2-x)^2)*step(x-0.2)*step(0.35-x)+(40.1664*(2*x-0.55))*step(x-0.35) PERIODIC=NO
+BIASVALUE ARG=f_f1a,f_f1b,f_f2a,f_f2b,f_f3a,f_f3b,f_f4a,f_f4b,f_f5a,f_f5b,f_f6a,f_f6b,f_f7a,f_f7b,f_f8a,f_f8b,f_f9a,f_f9b,f_f10a,f_f10b,f_f11a,f_f11b,f_f12a,f_f12b,f_f13a,f_f13b,f_f14a,f_f14b,f_f15a,f_f15b,f_f16a,f_f16b,f_f17a,f_f17b LABEL=b_f
